@@ -10,4 +10,5 @@ como produto final um app de compartilhamento de fotos.
 # :computer: Programas
 
     1 - ImageShare
-        Código fonte da implementação do tutorial Expo. Corresponde a um app de compartilhamento de fotos.
+        Código fonte da implementação do tutorial Expo. Corresponde a um app para iOS, Android e Web que permite 
+        compartilhar fotos entre amigos.
